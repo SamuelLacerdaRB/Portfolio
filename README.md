@@ -45,9 +45,3 @@ Sistema interno de gestão para escola, desenvolvido em PHP MVC, com cadastro e 
 ## Como visualizar este portfólio
 
 Este portfólio é um site estático construído com HTML, CSS e JavaScript, estilizado principalmente com Tailwind CSS. Pode ser visualizado localmente abrindo o arquivo `index.html` em qualquer navegador moderno, ou acessado online via GitHub Pages.
-
----
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
