@@ -39,10 +39,3 @@ btnTop.addEventListener('click', () => {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
 
-// Vanilla Tilt nos cards
-VanillaTilt.init(document.querySelectorAll(".card"), {
-  max: 15,
-  speed: 400,
-  glare: true,
-  "max-glare": 0.2
-});
